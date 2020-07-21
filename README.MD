@@ -1,13 +1,13 @@
 # Full Stack Message Board
 
-* [ ] Create Server Folder
-  * [ ] Init npm
-  * [ ] Add e press morgan cors body-parser
-  * [ ] Create Hello World Route
+* [x] Create Server Folder
+  * [x] Init npm
+  * [x] Add express morgan cors body-parser
+  * [x] Create Hello World Route
 * [ ] Create Client Folder
-  * [ ] vue create client
-  * [ ] Add bootswatch CSS
-  * [ ] Homepage Layout
+  * [x] vue create client
+  * [x] Add bootswatch CSS
+  * [x] Homepage Layout
 * [ ] Add DB to server
   * [ ] Add monk joi
   * [ ] Create message model
