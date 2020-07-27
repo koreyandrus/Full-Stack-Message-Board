@@ -9,17 +9,17 @@
   * [x] Add bootswatch CSS
   * [x] Homepage Layout
 * [ ] Add DB to server
-  * [ ] Add monk joi
-  * [ ] Create message model
-  * [ ] Create route to add message to db
-    * [ ] validate message with joi
+  * [x] Add monk joi
+  * [x] Create message model
+  * [x] Create route to add message to db
+    * [x] validate message with joi
       * username - default to anonymous
       * subject
       * message
       * imageURL
       * created_at
-    * [ ] insert message into db
-    * [ ] respond with inserted message
+    * [x] insert message into db
+    * [x] respond with inserted message
 * [ ] When page loads show all messages on page
   * [ ] Server route to GET all messages
 * [ ] Create new message form on client
